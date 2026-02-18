@@ -1,0 +1,14 @@
+# Local virtual environments
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
